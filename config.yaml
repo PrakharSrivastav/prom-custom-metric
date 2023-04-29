@@ -1,0 +1,13 @@
+items:
+  - name: 2
+    args: |-
+      sleep 2
+  - name: 4
+    args: |-
+      sleep 4
+  - name: 6
+    args: |-
+      sleep 6
+  - name: 8
+    args: |-
+      sleep 8
